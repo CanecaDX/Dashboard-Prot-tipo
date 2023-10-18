@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.title_dashboard{
+    text-align: right;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap; 
+    margin: 5px;
+    padding: 5px;
+}
+
+.dashboard {
+    display: flex;
+    flex-wrap: wrap;
+    width:auto;
+    height:auto;
+}
+
+.dashboard2 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.titulo {
+    display: flex;
+    flex-wrap: wrap;
+    color: red;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+    font-size: large;
+    width: auto;
+}

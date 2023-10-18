@@ -1,0 +1,17 @@
+.chart div {
+    font: 12pxsans-serif;
+    background-color: #8A2BE2;
+    padding: 4px;
+    margin: 2px;
+    color:  #FFF8DC;
+}
+
+
+#dashboard {
+    width: 450px;
+    border: 1px solid black;
+}
+
+p {
+    text-align: center;
+}
